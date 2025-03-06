@@ -4,7 +4,7 @@ export default function HeroSection() {
     return (
         <div>
             <section className="hero">
-                <div className="container hero__container">salom</div>
+                <div className="container hero__container"></div>
             </section>
         </div>
     )
